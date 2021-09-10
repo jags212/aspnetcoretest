@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+    <NameOfLastUsedPublishProfile>C:\Projects\AspnetCore\aspnetcore-mvc-efcore-bootstrap-angular-web\14\demos\Demos\5.0\after\DutchTreat\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
+  </PropertyGroup>
+</Project>
